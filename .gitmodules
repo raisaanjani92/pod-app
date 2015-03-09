@@ -1,0 +1,3 @@
+[submodule "Bolts-IOS"]
+	path = Bolts-IOS
+  	url = git://github.com/BoltsFramework/Bolts-iOS.git

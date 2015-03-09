@@ -1,0 +1,14 @@
+PODS:
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - Reachability (from `https://github.com/tonymillion/Reachability.git`)
+
+EXTERNAL SOURCES:
+  Reachability:
+    :git: https://github.com/tonymillion/Reachability.git
+
+SPEC CHECKSUMS:
+  Reachability: 9f5866d32d7b93a79ef40e8cef5f30db9c595f8a
+
+COCOAPODS: 0.34.4
